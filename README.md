@@ -6,6 +6,7 @@
 2. [Características principales de un algoritmo](#características-principales-de-un-algoritmo)
 3. [Ejemplo de un algoritmo simple](#ejemplo-de-un-algoritmo-simple)
 4. [Tipos de datos primitivos](#tipos-de-datos-primitivos)
+5. [Variables](#variables)
 
 ---
 
@@ -67,4 +68,16 @@ class Program
         Console.WriteLine($"Booleano: {esVerdadero}");
     }
 }
+```
+
+## Variables
+
+En C#, una **variable** es un espacio en memoria que se utiliza para almacenar datos. Cada variable tiene un tipo de dato que define qué tipo de información puede contener.
+
+### Declaración de variables
+
+Para declarar una variable en C#, se utiliza la siguiente sintaxis:
+
+```csharp
+tipo nombreVariable = valorInicial;
 ```
