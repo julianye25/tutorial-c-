@@ -9,6 +9,11 @@
 5. [Variables](#variables)
 6. [Var](#uso-de-la-palabra-reservada-var)
 7. [Constantes](#uso-de-constantes)
+8. [Operadores Aritmeticas](#operadores-aritméticos)
+9. [Operadores Logicos](#operadores-lógicos)
+10. [Operadores relacionalles](#operadores-relacionales)
+11. [Strings](#strings-en-c#)
+12. [Condicional If](#condicional-if)
 
 ---
 
